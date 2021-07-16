@@ -1,4 +1,7 @@
 {
   "name": "@equal-tech/product-api",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

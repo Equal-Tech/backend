@@ -3,5 +3,14 @@
   "private": true,
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest src/**/*.spec.js",
+    "test:coverage": "jest src/**/*.spec.js --coverage"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
   }
 }

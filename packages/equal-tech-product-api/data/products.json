@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 1"
+    },
+    "price": 19.82
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 2"
+    },
+    "price": 17.34
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 3"
+    },
+    "price": 6.56
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 4"
+    },
+    "price": 15.35
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 5"
+    },
+    "price": 28.15
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 6"
+    },
+    "price": 5.32
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 7"
+    },
+    "price": 16.3
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 8"
+    },
+    "price": 7.39
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 9"
+    },
+    "price": 9.25
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 10"
+    },
+    "price": 23.87
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 11"
+    },
+    "price": 19.65
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 12"
+    },
+    "price": 11.31
+  },
+  {
+    "id": 13,
+    "name": "Product 13",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 13"
+    },
+    "price": 10.76
+  },
+  {
+    "id": 14,
+    "name": "Product 14",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 14"
+    },
+    "price": 16.01
+  },
+  {
+    "id": 15,
+    "name": "Product 15",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 15"
+    },
+    "price": 24.18
+  },
+  {
+    "id": 16,
+    "name": "Product 16",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 16"
+    },
+    "price": 28.34
+  },
+  {
+    "id": 17,
+    "name": "Product 17",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 17"
+    },
+    "price": 16.95
+  },
+  {
+    "id": 18,
+    "name": "Product 18",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 18"
+    },
+    "price": 15.19
+  },
+  {
+    "id": 19,
+    "name": "Product 19",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 19"
+    },
+    "price": 15.19
+  },
+  {
+    "id": 20,
+    "name": "Product 20",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 20"
+    },
+    "price": 9.35
+  },
+  {
+    "id": 21,
+    "name": "Product 21",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 21"
+    },
+    "price": 19.94
+  },
+  {
+    "id": 22,
+    "name": "Product 22",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 22"
+    },
+    "price": 16.45
+  },
+  {
+    "id": 23,
+    "name": "Product 23",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 23"
+    },
+    "price": 9.75
+  },
+  {
+    "id": 24,
+    "name": "Product 24",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 24"
+    },
+    "price": 9.93
+  }
+]

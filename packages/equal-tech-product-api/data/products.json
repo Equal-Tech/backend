@@ -1,0 +1,512 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 1"
+    },
+    "price": 19.82,
+    "rating": {
+      "numStars": 4,
+      "numRatings": 425
+    },
+    "colours": [
+      "blue"
+    ],
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 2"
+    },
+    "price": 17.34,
+    "rating": {
+      "numStars": 2,
+      "numRatings": 280
+    },
+    "colours": [
+      "black",
+      "grey",
+      "blue",
+      "green",
+      "red",
+      "white"
+    ],
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 3"
+    },
+    "price": 6.56,
+    "rating": {
+      "numStars": 1,
+      "numRatings": 302
+    },
+    "colours": [
+      "green",
+      "black",
+      "yellow",
+      "white",
+      "grey"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 4"
+    },
+    "price": 15.35,
+    "rating": {
+      "numStars": 3,
+      "numRatings": 40
+    },
+    "colours": [
+      "yellow"
+    ],
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 5"
+    },
+    "price": 28.15,
+    "rating": {
+      "numStars": 4,
+      "numRatings": 159
+    },
+    "colours": [
+      "grey",
+      "green"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 6"
+    },
+    "price": 5.32,
+    "rating": {
+      "numStars": 5,
+      "numRatings": 464
+    },
+    "colours": [
+      "green",
+      "black",
+      "white",
+      "blue",
+      "yellow"
+    ],
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 7"
+    },
+    "price": 16.3,
+    "rating": {
+      "numStars": 5,
+      "numRatings": 350
+    },
+    "colours": [
+      "blue",
+      "yellow"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 8"
+    },
+    "price": 7.39,
+    "rating": {
+      "numStars": 5,
+      "numRatings": 313
+    },
+    "colours": [
+      "white"
+    ],
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 9"
+    },
+    "price": 9.25,
+    "rating": {
+      "numStars": 1,
+      "numRatings": 97
+    },
+    "colours": [
+      "blue"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 10"
+    },
+    "price": 23.87,
+    "rating": {
+      "numStars": 5,
+      "numRatings": 309
+    },
+    "colours": [
+      "grey"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 11"
+    },
+    "price": 19.65,
+    "rating": {
+      "numStars": 3,
+      "numRatings": 138
+    },
+    "colours": [
+      "black",
+      "green",
+      "red"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 12"
+    },
+    "price": 11.31,
+    "rating": {
+      "numStars": 2,
+      "numRatings": 451
+    },
+    "colours": [
+      "red"
+    ],
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Product 13",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 13"
+    },
+    "price": 10.76,
+    "rating": {
+      "numStars": 3,
+      "numRatings": 284
+    },
+    "colours": [
+      "white",
+      "grey",
+      "red"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Product 14",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 14"
+    },
+    "price": 16.01,
+    "rating": {
+      "numStars": 1,
+      "numRatings": 254
+    },
+    "colours": [
+      "black"
+    ],
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Product 15",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 15"
+    },
+    "price": 24.18,
+    "rating": {
+      "numStars": 4,
+      "numRatings": 266
+    },
+    "colours": [
+      "green"
+    ],
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Product 16",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 16"
+    },
+    "price": 28.34,
+    "rating": {
+      "numStars": 5,
+      "numRatings": 270
+    },
+    "colours": [
+      "grey"
+    ],
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Product 17",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 17"
+    },
+    "price": 16.95,
+    "rating": {
+      "numStars": 3,
+      "numRatings": 314
+    },
+    "colours": [
+      "black"
+    ],
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Product 18",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 18"
+    },
+    "price": 15.19,
+    "rating": {
+      "numStars": 4,
+      "numRatings": 229
+    },
+    "colours": [
+      "grey",
+      "black",
+      "green",
+      "blue"
+    ],
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Product 19",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 19"
+    },
+    "price": 15.19,
+    "rating": {
+      "numStars": 4,
+      "numRatings": 402
+    },
+    "colours": [
+      "grey",
+      "blue",
+      "green"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Product 20",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 20"
+    },
+    "price": 9.35,
+    "rating": {
+      "numStars": 4,
+      "numRatings": 209
+    },
+    "colours": [
+      "black",
+      "grey",
+      "red"
+    ],
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Product 21",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 21"
+    },
+    "price": 19.94,
+    "rating": {
+      "numStars": 3,
+      "numRatings": 166
+    },
+    "colours": [
+      "yellow"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Product 22",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 22"
+    },
+    "price": 16.45,
+    "rating": {
+      "numStars": 3,
+      "numRatings": 396
+    },
+    "colours": [
+      "green",
+      "blue",
+      "grey",
+      "white",
+      "yellow"
+    ],
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Product 23",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 23"
+    },
+    "price": 9.75,
+    "rating": {
+      "numStars": 4,
+      "numRatings": 481
+    },
+    "colours": [
+      "grey",
+      "yellow"
+    ],
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Product 24",
+    "image": {
+      "src": "https://via.placeholder.com/300x400/3CB371/FFFFFF?text=Product+Placeholder+Image",
+      "alt": "Product 24"
+    },
+    "price": 9.93,
+    "rating": {
+      "numStars": 3,
+      "numRatings": 221
+    },
+    "colours": [
+      "blue"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  }
+]

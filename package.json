@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "yarn workspaces foreach run start",
+    "test": "yarn workspaces foreach run test"
   },
   "keywords": [],
   "author": "",

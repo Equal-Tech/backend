@@ -6,4 +6,4 @@ describe('getAllProducts', () => {
   it('returns all products', () => {
     expect(getAllProducts()).toStrictEqual([]);
   })
-})
+});
